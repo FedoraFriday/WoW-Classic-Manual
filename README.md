@@ -27,6 +27,7 @@
 **How to play**
 - You need an active World of Warcraft subscription, and the World of Warcraft: Classic client.
 - This is not sync friendly - Aim for about a month of constant gameplay.
+- You can play on any Classic Era server, but it is recommended to choose a higher populated server.
 - Level ups will occur at a different rate from in-game to Archipelago.
 - Archipelago's level ups are meant to act as both a goal and a means to route yourself around the world properly.
 - Everything within 2 levels of the player (Yellow) is in logic.
