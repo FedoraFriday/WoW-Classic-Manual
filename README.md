@@ -27,7 +27,6 @@
 **How to play**
 - You need an active World of Warcraft subscription, and the World of Warcraft: Classic client.
 - This is not sync friendly - Aim for about a month of constant gameplay.
-
 - Level ups will occur at a different rate from in-game to Archipelago.
 - Archipelago's level ups are meant to act as both a goal and a means to route yourself around the world properly.
 - Everything within 2 levels of the player (Yellow) is in logic.
@@ -35,5 +34,4 @@
 - If your in-game level is higher than Archipelago, just pay attention to which quests are in logic.
 - Out of logic would include any quest that is orange or red to the player so long as you've unlocked the zone they're in.
 - If you're fully BK, you should probably mob grind so you don't fall behind. You may travel to zones you haven't unlocked to mob grind.
-
 - Equipment is labelled as filler, you do not need to feel obligated to restrict your own gear, its merely there as a flavorful means of filling the world.
